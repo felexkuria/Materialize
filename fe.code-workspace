@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\dropdownMenu"
+		},
+		{
+			"path": "..\\Multitouch\\fontawesome"
+		},
+		{
+			"path": "..\\Multitouch\\images"
+		},
+		{
+			"path": "..\\Multitouch\\js"
+		},
+		{
+			"path": "..\\Multitouch\\lib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dropdownMenu"
+	}
+}
